@@ -127,7 +127,7 @@ if (string.length >10){
 
 // Spicy Challenges
 let burger = 5.99;
-let fries = 3.99;
+let fries = 3.99; 
 let soda = 1.99;
 
 // 15. Write a function buyBurgers(budget) that takes in a budget amount and returns the number of burgers that can be bought.
